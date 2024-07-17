@@ -14,4 +14,4 @@ tales como :
 1. Triggers
 1. Manejo de transacciones 
 1. Seguridad en Base de datos
-1. Despliegue de aplicacione
+1. Despliegue de aplicacione+
